@@ -1,1 +1,71 @@
-
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Happy Half Birthday, My Love ♡</title>
+<style>
+:root{--rose:#b94f70;--ink:#634453;--blush:#fff0f4;--cream:#fffaf3}
+*{box-sizing:border-box}body{margin:0;color:var(--ink);font-family:Georgia,serif;background:linear-gradient(140deg,#fff3f5,#fffaf1 55%,#f5efff);overflow-x:hidden}
+.wrap{max-width:760px;margin:auto;padding:20px 16px 48px}.hero{text-align:center;padding:45px 12px 28px}
+.pill{display:inline-block;border:1px solid #e9bdca;border-radius:99px;padding:8px 13px;font:11px Arial;letter-spacing:1.8px;text-transform:uppercase;color:var(--rose)}
+h1{font-weight:normal;font-size:clamp(2.7rem,9vw,5rem);line-height:1;margin:24px 0 15px;color:#a83f64}h1 em{display:block;color:#d27692}
+.subtitle{font:15px/1.8 Arial,sans-serif;max-width:490px;margin:auto}.heart{font-size:48px;display:block;margin:15px;animation:pulse 1.4s infinite}
+@keyframes pulse{50%{transform:scale(1.13)}}.card{background:#ffffffd9;border:1px solid #f0d5dd;border-radius:23px;padding:24px;margin:17px 0;box-shadow:0 12px 35px #b95c7810}
+h2{font-weight:normal;color:#a83f64;font-size:1.65rem;margin:0 0 13px}p{font-size:16px;line-height:1.8;margin:10px 0}.small{font:12px/1.6 Arial,sans-serif;color:#987887}
+.notes{display:grid;grid-template-columns:1fr 1fr;gap:12px}.note{border:1px dashed #e5a8ba;background:#fff7fa;border-radius:17px;padding:15px;text-align:left;color:var(--ink);font:14px/1.6 Arial;cursor:pointer}
+.note b{display:block;font:italic 18px Georgia;color:#b34b6c;margin-bottom:7px}.inside{display:none;margin-top:8px}.note.open .inside{display:block}.note.open{background:#fff0f5}
+.btn{border:0;border-radius:99px;padding:13px 18px;background:#b94f70;color:white;cursor:pointer;font-size:14px;box-shadow:0 4px 0 #8f3956;margin:8px 4px}.btn:hover{transform:translateY(-2px)}
+.desi-letter{background:linear-gradient(135deg,#fff0f5,#fffaf1);border-color:#edc3d0}.desi-letter p{line-height:1.95}.desi-letter .signature{color:#b34b6c;font-size:1.08rem}.footer{text-align:center;padding:25px 10px;color:#a84c6b;font-style:italic}.spark{position:fixed;top:-30px;pointer-events:none;animation:fall linear forwards;z-index:9}@keyframes fall{to{transform:translateY(110vh) rotate(480deg);opacity:.2}}
+@media(max-width:480px){.notes{grid-template-columns:1fr}.card{padding:20px}.hero{padding-top:30px}}
+</style></head>
+<body><main class="wrap">
+<header class="hero">
+<div class="pill">a tiny celebration for my favourite human</div>
+<h1>Happy Half Birthday,<em>my love ♡</em></h1>
+<p class="subtitle">24 years and 6 months of you existing in this world… and somehow, I got lucky enough to love you.</p>
+<span class="heart">♡</span><p class="small">P.S. Today is officially an excuse to be extra mushy about you.</p>
+</header>
+<section class="card" style="background:linear-gradient(135deg,#fff4f6,#fffaf1)">
+<h2>To my safest person, 💌</h2>
+<p>Happy 24½, baby.</p>
+<p>I wish you could see yourself through my eyes for even five minutes. Maybe then you'd understand why I think you deserve the softest kind of love, the happiest little surprises, and a world that is kinder to you.</p>
+<p>You've been beside me through so much. Through messy days, difficult moments, and versions of me that didn't always know how to be okay. And you stayed. You kept choosing us and holding my hand through things that weren't always easy.</p>
+<p>I hope you know I don't take that for granted. I see you. I see the things you carry quietly, the effort you make, and the love you give. I wish I could take every heavy thing off your shoulders and give you a day where all you have to do is feel loved.</p>
+<p>Thank you for being you, for being here, and for being my person. I love you more than this tiny website could ever explain. ♡</p>
+<p>Here's to 24 years and 6 months of you—and to all the birthdays, half-birthdays, ordinary Tuesdays, and silly little moments I hope we get to celebrate together.</p>
+<p><b>Always on your team,</b><br>Your girl ♡</p>
+</section>
+<section class="card desi-letter">
+<h2>Ek baat jo tumhe hamesha yaad rkhni hai, baby 💗</h2>
+<p>tumne bahaut sath diya hau mera, mujhe yaqeen nhi hota hai ab bhi..ki kisi ne mujhe kin halat me smbhala hai, kaise dekha hai, kaise dhyan rkha hai.. tumko paana, ek bahaut badi achievement hai..</p>
+<p>Mai chahhti hu..ki tum bahaut successful bano..jo bhi mehnat tum abhi kar rhe ho..vo sab ek din bahaut bada aadmi banayegi tumhe.. bahaut kuchh hasil karoge baby tum.. bahaut kaabil insaan ho. Bahaut hi mehnati aur bahaut hi responsible..</p>
+<p>Ye bhi yaad rkhna ki tum safal bano..ya na bano..mere liye..meri nazro me..humesha sbse best hoge..mere bebu rhoge humesha..toh chahe tum kuchh bhi karo, mai humesha sath khadi hu.. tumhare sath. Chahe tum bade aadmi bano.. ya fir bas mere cutieepiee baby raho... 😘</p>
+<p class="signature"><b>Mai humesha tumhari team me hu, bebu. ♡</b></p>
+</section>
+<section class="card">
+<h2>Jab bhi khud pe doubt ho, ye padh lena 🥹</h2>
+<p>Tumhe har waqt strong banne ki zarurat nhi hai, aur na hi har cheez akele sambhalni hai. Tum bhi thak sakte ho, pareshaan ho sakte ho, aur kabhi kabhi bas baby ban ke reh sakte ho.</p>
+<p>Mujhe tumse sirf tumhare achievements ki wajah se pyaar nhi hai. Mujhe tumse pyaar hai kyunki tum tum ho. Aur mai chahti hu ki tum apne sapne poore karo, lekin unhe poora karte karte khud ko bhool mat jaana, okay?</p>
+<p><b>World ke liye tum jo bhi bano, mere liye tum mere bebu hi rhoge. 😘</b></p>
+</section>
+<section class="card"><h2>Little notes for you 🎀</h2><p class="small">Tap each note to open a little love note.</p>
+<div class="notes">
+<button class="note" onclick="this.classList.toggle('open')"><b>01 · In case you forget</b>You're so, so loved.<span class="inside">Not only on your best days. Not only when you're doing everything right. On the tired days, the uncertain days, and the days you don't feel like yourself, too.</span></button>
+<button class="note" onclick="this.classList.toggle('open')"><b>02 · My favourite thing</b>It's still you.<span class="inside">Your voice, your laugh, your silly little habits, the way you make ordinary moments feel like memories. It's the little things that make you my favourite.</span></button>
+<button class="note" onclick="this.classList.toggle('open')"><b>03 · A tiny wish</b>May life be gentle with you.<span class="inside">I hope good things find you. I hope your hard work pays off. I hope you get reasons to be proud of yourself, and people who show up for you the way you show up for others.</span></button>
+<button class="note" onclick="this.classList.toggle('open')"><b>04 · A promise</b>I'm on your team.<span class="inside">I can't promise every day will be easy, but I want us to keep listening, learning, laughing, apologising when we need to, and choosing kindness with each other.</span></button>
+<button class="note" onclick="this.classList.toggle('open')"><b>05 · If I could gift you anything</b>I'd give you my eyes.<span class="inside">So you could see how special you are to me—and how much goodness you deserve, even on the days you struggle to believe it yourself.</span></button>
+<button class="note" onclick="this.classList.toggle('open')"><b>06 · The important one</b>I love you. A lot. ♡<span class="inside">No grand reason needed. No special achievement required. I love the person you are, and I'm grateful our paths found each other.</span></button>
+<button class="note" onclick="this.classList.toggle('open')"><b>07 · Mere bebu ke liye</b>Mai humesha sath hu. ♡<span class="inside">Tumhe sab kuchh akele nhi karna hai, baby. Apne dreams ke peeche bhaago, mehnat karo, aur jab thak jao toh mere paas aa jaana. Mai tumhare sath hu. 😘</span></button>
+</div></section>
+<section class="card" style="text-align:center"><h2>Official half-birthday certificate 🧁</h2>
+<p>This certifies that the birthday boy is entitled to:</p><p>♡ unlimited hugs<br>♡ one very enthusiastic birthday kiss<br>♡ his favourite food or dessert<br>♡ compliments on demand<br>♡ a reminder that his girl is ridiculously proud of him</p>
+<button class="btn" onclick="magic()">Tap for a little birthday magic ✨</button><p id="magic" class="small" aria-live="polite"></p></section>
+<section class="card"><h2>One last thing… 🌷</h2>
+<p>I hope this next little chapter brings you peace where you've felt pressure, confidence where you've felt doubt, and so many moments that make you think, “Hey, life is actually beautiful.”</p>
+<p>You deserve to be celebrated—not just for what you do for people, but simply for being here.</p><p><b>Happy 24 years & 6 months, my love.</b><br>Today, the world gets to celebrate you. I just get to love you a little extra loudly. ♡</p></section>
+<footer class="footer">made with all my love, just for you ♡<br><span class="small">P.S. If you're reading this, come collect your hug.</span></footer>
+</main>
+<script>
+function magic(){document.getElementById('magic').textContent='SURPRISEEEE! You are loved beyond words. Happy half birthday, baby!! ♡♡♡';let a=['♡','💗','✦','💕','✿','✨'];for(let i=0;i<40;i++){let s=document.createElement('span');s.className='spark';s.textContent=a[Math.floor(Math.random()*a.length)];s.style.left=Math.random()*100+'vw';s.style.animationDuration=(2.4+Math.random()*3)+'s';s.style.fontSize=(14+Math.random()*22)+'px';document.body.appendChild(s);setTimeout(()=>s.remove(),5600)}}
+</script></body></html>
